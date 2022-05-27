@@ -2,9 +2,8 @@
 
 Using the Monte Carlo method, multiple scenarios will be simulated to predict the future results of the share price the user chooses. The parameters that can be changed are 3, the action to be simulated, the number of iterations and the period to be analyzed. By default the action is Mercadolibre, the period is 5 years and the number of iterations is 1000, likewise the data is extracted from Yahoo Finance. The simulation yields the following results:
 
--Expected price in 1 year
-
--The probabilistic distribution of possible outcomes.
+- Expected price in 1 year
+- The probabilistic distribution of possible outcomes.
 
 Likewise, the following graphs are obtained:
 
